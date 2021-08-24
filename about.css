@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ 
+ body {
+      font-size: 50px;
+  }
+  
+  .yes {
+      background-image: linear-gradient( rgba(0, 0, 0, 0.75), rgba(29, 27, 27, 0.75)), url(https://media.istockphoto.com/photos/makeup-brushes-set-closeup-on-a-black-background-horizontal-sp-picture-id622988068?k=6&m=622988068&s=170667a&w=0&h=YIWZgsoUGR1FMWt7PilcJNnt0vFW2myqt0uxpls7kBM=);
+      text-align: center;
+      font-size: 20px;
+      color: whitesmoke;
+  }
+  
+  /* h1 {
+      margin-top: 0cm;
+      text-align: center;
+      color: whitesmoke;
+      font-family: "Sofia", sans-serif;
+      font-size: 55px;
+      text-shadow: 1px 1px 1px #646262;
+      text-decoration: whitesmoke;
+      opacity: 95%;
+  } */
+  
+.brands {
+    margin: 30px 0px 10px 850px;
+      color: black;
+      font-family:cursive;
+  }
+  .achievements
+  {
+    margin: 0px 0px 10px 30px;
+    color: black;
+    font-family: cursive;
+  }
+
+  .one
+  {
+    margin: 0px 0px 10px 30px;
+    color: black;
+    font-family: cursive; 
+  }
+
+
+  .two {
+      font-size: 30px;
+      text-align: center;
+      color:black;
+      margin-top: 0cm;
+  }
+  
+  .three,
+  .five
+   {
+      font-size: 15px;
+      text-indent: inherit;
+      word-spacing: 0.13cm;
+      line-height: 0.7cm;
+      letter-spacing: 0.03cm;
+      border-width: 5px;
+      font-family:cursive;
+     
+  }
+  
+  /* .four {
+      opacity: 79%;
+  }
+   */
+ img {
+      float: left;
+  } 
+  
+  
+  #pic3 {
+      float: right;
+  }
+  
+  /* .achievements {
+      margin-left: 1cm;
+      margin-top: 1.7cm;
+  } */
+  
+  .achpara
+  {
+      font-size: 15px;
+      margin-left: 1.0cm;
+      margin-right: 53%;
+      text-indent: inherit;
+      word-spacing: 0.13cm;
+      line-height: 0.7cm;
+      letter-spacing: 0.03cm;
+      opacity: 77%;
+  }
+  
+  .three {
+    
+     font-size: 15px;
+     word-spacing: 0.13cm;
+     line-height: 0.7cm;
+     letter-spacing: 0.03cm;
+     opacity: 77%;
+     margin: 0px 750px 10px 10px;
+     border-style: solid;
+     padding: 3px 5px 3px 3px;
+     color:black;
+     font-weight: bold;
+     border-width: 5px;
+
+  }
+  
+  #we {
+      float: right;
+      margin: 50px 2px 10px 10px;
+  }
+  
+  
+  /* .one {
+      margin-top:0px;
+      margin-left: 0px;
+  } */
+  
+  
+  .brandspara
+  {
+      font-size: 15px;
+      word-spacing: 0.13cm;
+      line-height: 0.7cm;
+      letter-spacing: 0.03cm;
+      opacity: 77%;
+      margin: 30px 2px 10px 735px;
+     border-style: solid;
+     padding: 3px 5px 3px 3px;
+     color:black;
+     font-weight: bold;
+     border-width: 5px;
+  }
+  .five{
+    margin: 10px 300px 10px 350px;
+    border-style: solid;
+    padding: 25px 40px 25px 45px;
+    color:black;
+    font-weight: bold;
+  }
+  .achpara{
+    margin: 10px 745px 10px 3px;
+    border-style: solid;
+    padding: 3px 3px 3px 3px;
+    border-width: 5px;
+    color:black;
+    font-weight: bold;
+  }
+
+
+  
+
+  
